@@ -17,6 +17,13 @@ In this project we have performed  following step :
 Hr dashboard
 [hr12.pdf](https://github.com/user-attachments/files/16755282/hr12.pdf)
 
+ Key Bussiness insights from this analysis:
+ 1  Friday is day of the week where most of the employee prefer wfh and also presence % is lesser on this day
+ 2  from this dashboard we can found out all the utilization hour of an employee  for a given period whether he is doing wfh/pl etc which help hr to find out key insights 
+  about employee data   so that they can find out right reason about this AND would work to improve working conditions.
+    
+  
+
 
 
 
