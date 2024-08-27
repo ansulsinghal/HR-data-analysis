@@ -10,7 +10,10 @@ Taks Performed:
 
 In this project we have performed  following step :
 1  perform data cleaning operation to remove all unwanted record from the in the power bi table
-2  perform data transformation for 
+2  perform data transformation step in which combine data from diffrent excel sheet(ie each sheet conatins data for one particluar moanth)in power Bi
+3  perform various dax queries to find out presence %, wfh % and sickleave% 
+4 create a power bi dashboard by using above data which provide all the insights for all the employee on monthly/daily basics
+
 
 
 
