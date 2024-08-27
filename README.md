@@ -14,6 +14,9 @@ In this project we have performed  following step :
 3  perform various dax queries to find out presence %, wfh % and sickleave% 
 4 create a power bi dashboard by using above data which provide all the insights for all the employee on monthly/daily basics
 
+Hr dashboard
+[hr12.pdf](https://github.com/user-attachments/files/16755282/hr12.pdf)
+
 
 
 
